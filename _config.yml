@@ -2,6 +2,7 @@ title: IBM HCD + EA BDC Lab: “Custom” Data Products, Modeling and SAC report
 remote_theme: just-the-docs/just-the-docs
 
 url:   https://jessmine99.github.io/demo/
+baseurl: /demo
 search_enabled: true
 heading_anchors: true
 

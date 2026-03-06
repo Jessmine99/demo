@@ -9,4 +9,5 @@ This is the demo documentation site.
 
 Here is the architecture overview:
 
-![Architecture overview]({{ site.baseurl }}/assets/E2E scenario.png)
+![Architecture overview]({{ https://jessmine99.github.io/demo }}/assets/E2E scenario.png)
+

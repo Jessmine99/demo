@@ -1,18 +1,17 @@
-title: IBM HCD + EA BDC Lab: “Custom” Data Products, Modeling and SAC reporting
+title: 'IBM HCD + EA BDC Lab: "Custom" Data Products, Modeling and SAC reporting'
 remote_theme: just-the-docs/just-the-docs
 
-url:   https://jessmine99.github.io
+url: https://jessmine99.github.io
 baseurl: /demo
+
 search_enabled: true
 heading_anchors: true
 
 plugins:
   - jekyll-remote-theme
 
-# Show an "On this page" table of contents
 toc_enabled: true
 toc_heading_levels: [2, 3]
-
 
 
 
